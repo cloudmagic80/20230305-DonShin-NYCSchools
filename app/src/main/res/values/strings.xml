@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SchoolsAssignmentDon</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Loading failed</string>
+    <string name="satMathAvgScore">SAT Math Average Score: %s</string>
+    <string name="satCriticalReadingAvgScore">SAT Critical Reading Average: %s</string>
+    <string name="satWritingAvgScore">SAT Writing Average Score: %s</string>
+    <string name="numOfSatTestTakers">Num of SAT Test Takers: %s</string>
+    <string name="overview">Overview</string>
+</resources>
